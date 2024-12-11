@@ -1,0 +1,38 @@
+
+
+
+body{
+    max-width: 350vh;
+    max-height: 60vh;
+    min-width: 85vh;
+    background-color: grey;
+}
+.buut {
+    padding-left: 25vh;
+    padding-top: 2vh;
+}
+input {
+    color: green;
+    font-size: 24px;
+}
+
+label {
+    color: peachpuff;
+    font-size: 15px;
+}
+.rehab{
+    color:green;
+    background-color:peachpuff;
+}
+
+.rryH {
+    width: 50px;
+    height: 22px;
+}
+div.formula  {
+    color:brown;
+    background-color: #fff;
+}
+div.rehab {
+    display: flex;
+}
